@@ -7,7 +7,6 @@ Hello, I'm Abdalluh_Aldaylami
 🎓 Student at Sana’a University Computer Science 
 
 💻 Passionate about Software Development
-
 📚 Focused on :
 
 🔹 C++
